@@ -1,0 +1,18 @@
+SCSS ------
+
+p {
+    color: red;
+    font-weight: bold;
+}
+
+SASS ------
+
+p
+    color: red;
+    font-weight: bold
+
+
+    ...
+
+
+    

@@ -1,0 +1,16 @@
+.cont {
+  padding: 1em;
+  font-size: 1.5em;
+}
+.cont .parrafo {
+  color: #154715;
+}
+.cont a {
+  text-decoration: none;
+  color: red;
+}
+.cont a:hover {
+  color: royalblue;
+}
+
+/*# sourceMappingURL=main.css.map */

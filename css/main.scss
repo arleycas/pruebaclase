@@ -1,0 +1,19 @@
+.cont {
+    padding: 1em;
+    font-size: 1.5em;
+
+    .parrafo {
+        color: #154715;
+    }
+
+    a {
+        text-decoration: none;
+        color: red;
+        &:hover {
+            color: royalblue;
+        }
+    }
+}
+
+
+
